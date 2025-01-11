@@ -105,3 +105,5 @@ MindEye is inspired by a gap in existing tools: separate apps for journaling and
 
 **MindEye: Reflect, log, and grow — all in one app!**
 ***Developed by Matthew Yurkunas for educational purposes only***
+
+Watch the app walkthrough here: https://youtu.be/NCj9qrnUsAs
