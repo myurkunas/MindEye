@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MindEye</string>
+    <string name="logo_description">MindEye Logo</string>
+    <string name="welcome_card_title">Welcome to MindEye</string>
+    <string name="welcome_card_description">Your eye into your mind. Want to learn more, click here</string>
+    <string name="info_title">About MindEye</string>
+    <string name="info_description">MindEye is an innovative app designed to help you log your mental wellbeing and journal in a distraction-free environment.</string>
+    <string name="features_title">Key Features</string>
+    <string name="features_list">
+    - Log momentary states of emotion
+    - Add journal details to your log
+    - Analyze your progress with insightful charts
+    - Minimalistic and user-friendly interface
+    </string>
+    <string name="app_info_image_description">App logo</string>
+
+    <string name="contact_us">Contact Us</string>
+    <string name="learn_more">Learn More</string>
+    <string name="feeling_slider">Log how you feel right now</string>
+    <string name="very_unpleasant">Very Unpleasant</string>
+    <string name="neutral">Neutral</string>
+    <string name="very_pleasant">Very Pleasant</string>
+    <string name="back">Back</string>
+    <string name="feeling_slider_description">Feeling Slider</string>
+    <string name="journal_away">Journal away...</string>
+    <string name="save">Save</string>
+    <string name="feeling_slider_header">Log how you feel right now</string>
+    <string name="log">Log</string>
+    <string name="delete_log">Delete Log</string>
+    <string name="edit">Edit</string>
+    <string name="new_log">New Log</string>
+    <string name="current_tab_selection">Current Tab Selection</string>
+    <string name="mindeye_logo">MindEye Logo</string>
+    <string name="welcome_to_mindeye">Welcome to MindEye!</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="get_started">Get Started</string>
+    <string name="logs_this_year">Logs this year</string>
+    <string name="words_written">Words Written</string>
+    <string name="days_journaled">Days Journaled</string>
+    <string name="_0">0</string>
+    <string name="most_recent_log">Most Recent Log</string>
+    <string name="feeling">Feeling</string>
+    <string name="journal">Journal</string>
+    <string name="user_name">User Name</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="delete_all_logs">Delete All Logs</string>
+    <string name="reset_all_data">Reset All Data</string>
+    <string name="copyright">© 2024 Matthew Yurkunas. All rights reserved.</string>
+
+
+</resources>

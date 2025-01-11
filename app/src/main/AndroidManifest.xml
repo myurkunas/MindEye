@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/mindeye_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/mindeye_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Material3.Dark.NoActionBar"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".MainActivity"
+            android:theme = "@style/Theme.App.Starting"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".LogActivity"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar"
+            />
+
+        <activity
+            android:name=".WelcomeActivity"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar" />
+
+        <activity android:name=".LogDetailActivity"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar"/>
+
+        <activity android:name=".EditLogActivity"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar"/>
+
+        <activity android:name=".InfoActivity"
+            android:theme="@style/Theme.Material3.Dark.NoActionBar"/>
+
+    </application>
+
+</manifest>
